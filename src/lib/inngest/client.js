@@ -1,7 +1,7 @@
 import { Inngest } from "inngest";
 
 export const inngest = new Inngest({
-    id: "ai-impact ", 
+    id: "ai-impact-01", 
     name: "AImpact", 
     credentials: {
         gemini: {
